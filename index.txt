@@ -484,7 +484,7 @@
 											<img class="lazy gallery-slider__slide-image exhibition-carousel__slide-image" data-srcset="/metmuseum.org/-/media/images/exhibitions/2021/afrofuturist-period-room/afpr_exhibition_carousel_560x690_062121_v1.jpg?h=690&amp;amp;iar=0&amp;amp;mw=840&amp;amp;w=560&amp;amp;sc_lang=en&amp;amp;hash=B94E2A92ED069F9A0A840523A6CD039D 800w,
 							/metmuseum.org/-/media/images/exhibitions/2021/afrofuturist-period-room/afpr_exhibition_carousel_560x690_062121_v1.jpg?h=690&amp;amp;iar=0&amp;amp;mw=1200&amp;amp;w=560&amp;amp;sc_lang=en&amp;amp;hash=E7DEC73FF3493E054A3486404C46D6E4 1200w,
 							/metmuseum.org/-/media/images/exhibitions/2021/afrofuturist-period-room/afpr_exhibition_carousel_560x690_062121_v1.jpg?h=690&amp;amp;iar=0&amp;amp;mw=1600&amp;amp;w=560&amp;amp;sc_lang=en&amp;amp;hash=B78D2D1A00ACFE14867DEA9A4742F96E 1600w,
-							/metmuseum.org-//media/images/exhibitions/2021/afrofuturist-period-room/afpr_exhibition_carousel_560x690_062121_v1.jpg?h=690&amp;amp;iar=0&amp;amp;mw=2400&amp;amp;w=560&amp;amp;sc_lang=en&amp;amp;hash=8560445A16958122B6E1DA7A05D45FBA 2400w" sizes="280px"
+							/metmuseum.org/-/media/images/exhibitions/2021/afrofuturist-period-room/afpr_exhibition_carousel_560x690_062121_v1.jpg?h=690&amp;amp;iar=0&amp;amp;mw=2400&amp;amp;w=560&amp;amp;sc_lang=en&amp;amp;hash=8560445A16958122B6E1DA7A05D45FBA 2400w" sizes="280px"
 					alt="Afrofuturism graphic identity, red, blue, green pattern with image of African American woman" />
 				</figure>
 				<div class="gallery-slider__slide-info">
