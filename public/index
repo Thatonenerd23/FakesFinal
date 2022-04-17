@@ -501,10 +501,7 @@
 				<figure class="gallery-slider__slide-figure exhibition-carousel__figure">
 					<a aria-hidden="true" tabindex="-1" href="/exhibitions/listings/2022/jacques-louis-david-radical-draftsman"
 					class="invisible-redundant-link gtm-homepage-exhibition"></a>
-											<img class="lazy gallery-slider__slide-image exhibition-carousel__slide-image" data-srcset="metmuseum.org/media/images/exhibitions/2021/jacques-louis-david-radical-draftsman/radicaldraftsman_exhibition_carousel_560x690_final.jpg?h=690&amp;amp;iar=0&amp;amp;mw=840&amp;amp;w=560&amp;amp;sc_lang=en&amp;amp;hash=63538AE7B4EE67F760AF6ADEE882CDD6 800w,
-							/-/media/images/exhibitions/2021/jacques-louis-david-radical-draftsman/radicaldraftsman_exhibition_carousel_560x690_final.jpg?h=690&amp;amp;iar=0&amp;amp;mw=1200&amp;amp;w=560&amp;amp;sc_lang=en&amp;amp;hash=0C98A6C8D4F44B3E2CBA9B9A1B0DA80A 1200w,
-							/-/media/images/exhibitions/2021/jacques-louis-david-radical-draftsman/radicaldraftsman_exhibition_carousel_560x690_final.jpg?h=690&amp;amp;iar=0&amp;amp;mw=1600&amp;amp;w=560&amp;amp;sc_lang=en&amp;amp;hash=2FFA287FFBF840C2122ADFE6F675FE1B 1600w,
-							/-/media/images/exhibitions/2021/jacques-louis-david-radical-draftsman/radicaldraftsman_exhibition_carousel_560x690_final.jpg?h=690&amp;amp;iar=0&amp;amp;mw=2400&amp;amp;w=560&amp;amp;sc_lang=en&amp;amp;hash=921E333062BAEFE50FE6F72215F331CA 2400w" sizes="280px"
+					<img src="pieces/1W8A8243.jpg" style="max-width: 100%; max-height: 250px" id="myImg21"><br><br>
 					alt="David&#39;s &quot;The Oath of the Tennis Court.&quot; One man is stood on a table in the center of the frame raising his hand in a vote. He is surrounded by other men all raising their hands towards him in a vote. The words &quot;Jacques Louis David: Radical Draftsman&quot; are imposed over the image." />
 				</figure>
 				<div class="gallery-slider__slide-info">
