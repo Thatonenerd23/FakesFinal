@@ -450,12 +450,7 @@
                      alt="alt=&quot; &quot;"
                      data-src="/-/media/images/homepage/locations/fifth-avenue/homepage_12-21_still_1920x1080.jpg?h=158&amp;amp;iar=0&amp;amp;mw=280&amp;amp;w=280&amp;amp;sc_lang=en&amp;amp;hash=B3394AF54551306E383F7B8DA79ACC88" />
             </picture>
-
-            <div class="js-homepage-hero__vimeo-container homepage-hero__vimeo-container"
-                 data-vimeo-background
-                 data-vimeo-dnt
-                 data-vimeo-defer
-                 data-vimeo-url="https://player.vimeo.com/video/652518341?background=1"></div>
+		 <img src="pieces/1W8A8243.jpg" style="max-width: 100%; max-height: 250px" id="myImg21">
         <div class="homepage-hero__copy">
             <span class="tag homepage-hero__tag"></span>
             <h1 class="alt homepage-hero__title">Welcome to The Met</h1>
